@@ -1,4 +1,3 @@
-# ACM W GenAI Challenge Team S2
 # ✨ ACM-W × Oh Crop! — Generative AI Challenge
 
 > Submissions for the **ACM-W Chapter × Oh Crop! Design Club** Generative AI Challenge.
