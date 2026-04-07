@@ -57,6 +57,7 @@ A generative fashion collection trained on **Fashion-MNIST** (Dress + Coat class
 **Key deliverables:** 5 outfit images · Mood board · Latent interpolation strip · Loss plot · Executed notebook
 
 ![Digital Garden Mood Board](./challenge-2-fashion-designer/mood_board.jpeg)
+
 ---
 
 ## 🧠 Challenge 3: AI Poster Designer
@@ -71,7 +72,7 @@ An AI-assisted poster for *Memory Shop* — a fictional storefront in a near-fut
 
 **Key deliverables:** 3 concept images · 1 final poster · `final_poster.png` standalone file · Executed notebook
 
-![Memory Shop Final Poster](./challenge-3-poster/final_poster.png)
+<img src="./challenge-3-poster/final_poster.png" width="70%">
 ---
 
 ## 🛠️ Tech Stack
