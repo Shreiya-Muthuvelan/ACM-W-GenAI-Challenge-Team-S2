@@ -85,4 +85,11 @@ An AI-assisted poster for *Memory Shop* — a fictional storefront in a near-fut
 **Libraries used across challenges:**
 `torch` · `torchvision` · `numpy` · `matplotlib` · `PIL` · `opencv-python` · `scikit-image` · `tqdm`
 
+## 🏆 Team S2 — Challenge Submission
+
+### 👩‍💻 Authors
+- Shreiya Ramaswamy Muthuvelan  
+- Shreyaa Murali
+
+
 ---
