@@ -66,7 +66,7 @@ Weight initialization: Normal(0, 0.02) for Conv layers · Normal(1, 0.02) for Ba
 | Outfit 4 | 🦋 Butterfly Wings | Sky |
 | Outfit 5 | 🌺 Peony Bloom | Peony |
 
-> 📌 All outfit images are in the `outfits/` folder. See the mood board for a full side-by-side view.
+> 📌 All outfit images are in the `outputs/` folder. See the mood board for a full side-by-side view.
 
 ---
 
