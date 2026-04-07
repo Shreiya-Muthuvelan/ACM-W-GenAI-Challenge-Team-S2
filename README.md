@@ -12,7 +12,7 @@ acmw-genai-challenge/
 │
 ├── challenge-1-image-repair/       ← Image degradation + U-Net reconstruction + style transfer
 ├── challenge-2-fashion-designer/   ← DCGAN-based fashion generation (Digital Garden theme)
-├── challenge-3-memory-shop/        ← AI poster design for a fictional memory trading shop
+├── challenge-3-poster/        ← AI poster design for a fictional memory trading shop
 │
 └── README.md                       
 ```
@@ -62,7 +62,7 @@ A generative fashion collection trained on **Fashion-MNIST** (Dress + Coat class
 
 ## 🧠 Challenge 3: AI Poster Designer
 
-📁 [`challenge-3-memory-shop/`](./challenge-3-memory-shop/)
+📁 [`challenge-3-poster/`](./challenge-3-poster/)
 
 An AI-assisted poster for *Memory Shop* — a fictional storefront in a near-future world where memories can be bought and sold. Three AI-generated concept visuals were produced, then composited and refined into a single cohesive final poster built around three narrative pillars:
 
